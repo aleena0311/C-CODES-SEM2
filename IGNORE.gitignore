@@ -1,0 +1,14 @@
+# Ignore Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug folders
+*.dSYM/
